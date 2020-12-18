@@ -1,2 +1,5 @@
 # Neumorphism
-Example portfolio with neumorphism theme
+
+### check it out here[](https://neumorphism-site.netlify.app/)
+
+This is an example portfolio with neumorphism theme.
